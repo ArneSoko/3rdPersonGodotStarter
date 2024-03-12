@@ -1,0 +1,9 @@
+res://main.tscn
+res://player.gd
+res://player.tscn
+res://menu.gd
+res://Exit.gd
+res://Close.gd
+res://MenuBack.gd
+res://MenuCanvas.gd
+res://Menu_Back.gd

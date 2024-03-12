@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710179292
+CameraPitch.gd::GDScript::-1::1709866985::0::1::::<>Node3D<>::
+CameraYaw.gd::GDScript::-1::1709866983::0::1::::<>Node3D<>::
+icon.svg::CompressedTexture2D::4014174746538215493::1709865982::1709866007::1::::<><>::
+main.tscn::PackedScene::388245568364403286::1709874534::0::1::::<><>::uid://bifif61oy6qoj::::res://player.tscn<>res://CameraYaw.gd<>res://CameraPitch.gd
+player.gd::GDScript::-1::1709868119::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::2958749655537489885::1709868127::0::1::::<><>::res://player.gd
+README.md::TextFile::-1::1709865982::0::1::::<><>::
