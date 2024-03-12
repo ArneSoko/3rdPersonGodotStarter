@@ -9,9 +9,15 @@ We chose Godot because it's relatively lightweight, compared to something like U
 After a week of work, I put together a basic starting point for any 3rd Person 3D game using Godot engine.
 
 **Features**
+
 -Basic movement (jumping is set as an input event, but not added as a function)
+
 -Basic physics (collision, falling)
+
 -Camera with adjustable zoom
+
 -Pause menu with option to close the menu or quit the game
+
+
 
 I hope anyone who finds this starter setup useful goes on to do great things!
